@@ -11,6 +11,8 @@ Workshop page, lecture slides, and rendered notebooks:
 |---|---|
 | `1-gpu-computing.ipynb` | GPU computing in the Julia language: arrays, broadcasting, `map`/`reduce`, linear algebra, KernelAbstractions.jl kernels, batched simulation |
 | `2-optimal-control-and-estimation.ipynb` | Direct transcription, pendulum swing-up, Goddard's rocket by orthogonal collocation, particle steering, parameter estimation for the Boehm STAT5 model |
+| `reductions-solution.ipynb` | Worked solution to the interior-point reductions exercise |
+| `montecarlo-pi-solution.ipynb` | Worked solution to the Monte-Carlo π exercise |
 | `minimum-time-solution.ipynb` | Worked solution to the minimum-time swing-up exercise |
 | `particle-steering-solution.ipynb` | Worked solution to the particle steering exercise |
 
