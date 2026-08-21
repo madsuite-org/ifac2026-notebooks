@@ -1,0 +1,6 @@
+# CUDA runtime pin: CUDA 12.9 is the last toolkit supporting Volta (sm_70),
+# the architecture of the GPUs the notebooks were executed on. The pin is
+# harmless on newer GPUs; remove it if you prefer the default runtime.
+[CUDA_Runtime_jll]
+__clear__ = ["local"]
+version = "12.9"
