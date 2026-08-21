@@ -16,8 +16,10 @@ Workshop page, lecture slides, and rendered notebooks:
 | `minimum-time-solution.ipynb` | Worked solution to the minimum-time swing-up exercise |
 | `particle-steering-solution.ipynb` | Worked solution to the particle steering exercise |
 
-The committed outputs are real runs from the workshop's GPU servers
-(NVIDIA Quadro GV100).
+The notebooks ship without outputs, so every output you see is one you
+generated. Executed versions, with outputs from the workshop's GPU servers
+(NVIDIA Quadro GV100), are rendered on the
+[workshop page](https://madsuite.org/ifac2026/).
 
 ## Running them yourself
 
